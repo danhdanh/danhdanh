@@ -11,7 +11,7 @@ default_body_class: list
 
 author:
     name: Yours Truly
-    # url:  http://example.com/
+    url:  "http://danhdanh.github.io"
     company:
         name: Famous Inc.
         # url:  http://example.com/
